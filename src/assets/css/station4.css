@@ -3,3 +3,21 @@
 .center {
   text-align: center;
 }
+
+body {}
+
+p {
+  display: block;
+}
+
+a {
+  display: inline;
+}
+
+div {
+  display: block;
+}
+
+span {
+  display: inline;
+}
